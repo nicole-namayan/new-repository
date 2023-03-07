@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 803b9846536e4a08431ee0ea701d7223fb1c185e nicole <nicolenamayan133@gmail.com> 1677859850 +0300	clone: from github.com:nicole-namayan/phase-0-git-basics-lab.git
+803b9846536e4a08431ee0ea701d7223fb1c185e 6b316cfecb3a1a8a2cd2b3648286997dd266f4d7 nicole <nicolenamayan133@gmail.com> 1678123069 +0300	commit: Readme.md file
+6b316cfecb3a1a8a2cd2b3648286997dd266f4d7 be41091375522e0e646c4fcceaa51269f10a19cb nicole <nicolenamayan133@gmail.com> 1678124835 +0300	commit: first commit
+be41091375522e0e646c4fcceaa51269f10a19cb be41091375522e0e646c4fcceaa51269f10a19cb nicole <nicolenamayan133@gmail.com> 1678124849 +0300	Branch: renamed refs/heads/master to refs/heads/main
